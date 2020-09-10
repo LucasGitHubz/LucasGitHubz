@@ -1,6 +1,6 @@
-### Hi there, I'm Lucas Amelin, iOS developper !
+# Hi there, I'm Lucas Amelin, iOS developper !
 
-# About me:
+### About me:
 
 - I’m currently working on a japanese app to learn kanas ! (Coming soon on the AppStore 👀)
 - I'm open to work !
